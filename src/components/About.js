@@ -12,7 +12,7 @@ function About() {
 			I'm Nthabiseng, a full stack developer eager to join a team or project and make a valuable contribution!
 			</p>
 			<p className="content">
-			I have just completed the Digital Academy learnership Program for full stack development. Thank you for checking out my portfolio, and please don't hesitate to contact me using the form above!
+			I have just completed the Digital Academy Learnership Program for full stack development. Thank you for checking out my portfolio, and please don't hesitate to contact me using the form above!
 
 
 

@@ -20,16 +20,7 @@ function Contact() {
   const [errorMessage, setErrorMessage] = useState('');
   const { name, email, message } = formState;
 
-  // const handleSubmit = (e) => {
-  //   e.preventDefault();
-  //   if (!errorMessage) {
-  //     console.log('Submit Form', formState);
-  //   }
-  // };
 
-  // function refreshPage() {
-  //   window.location.reload(true);
-  // }
 
 
   if (state.succeeded) {
